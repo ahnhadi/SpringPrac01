@@ -40,3 +40,6 @@ settings.gradle
 
 # SQL
 *.sql
+
+# ?
+*.properties
